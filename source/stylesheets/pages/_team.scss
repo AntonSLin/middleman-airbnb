@@ -1,8 +1,8 @@
 #team {
   height: 100vh;
-  background-image: linear-gradient(0deg, #fff 60%, #F4F4F4 40%);
+  background-image: linear-gradient(0deg, $white 60%, $light-gray 40%);
   .fa-heart {
-    color: #D23333;
+    color: $red;
     margin-bottom: 50px;
     margin-top: 30px;
   }
